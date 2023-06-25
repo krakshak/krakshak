@@ -4,12 +4,6 @@ Hi 👋 My name is Rakshak Kunchum
 Data Science Graduate Student at Northeastern University
 --------------------------------------------------------
 
-Formerly a Data Engineer at Dataweave, an e-commerce analytics company for 2.5 years. n this role, I was initially involved in Data scraping and Data Wrangling from major e-commerce websites. As I progressed, I transitioned into automating data workflows using technologies like Airflow and Amazon Web Services. This hands-on experience allowed me to witness the direct application of Data Science in solving real-world problems.
-
-Outside of my academic and professional pursuits, I enjoy staying active and exploring the outdoors. Whether it's playing badminton or embarking on a scenic trail hike, I find solace in the balance between mental and physical well-being. Also, I find immense joy in immersing myself within captivating story-driven games, where I often happily venture into virtual worlds, indulging in epic gaming adventures.
-
-Looking ahead, I am eager to combine the comprehensive skills in Data Science, encompassing Machine Learning, Statistics, and Algorithms, that I am acquiring at the university with my prior industry experience. My ultimate goal is to tackle complex real-world data science problems and make a meaningful impact.
-
 * 🌍  I'm based in Boston, MA
 * 🖥️  See my portfolio at [Rakshak Kunchum](http://krakshak.github.io)
 * ✉️  You can contact me at [krakshak7698@gmail.com](mailto:krakshak7698@gmail.com)
@@ -17,6 +11,7 @@ Looking ahead, I am eager to combine the comprehensive skills in Data Science, e
 * 🧠  I'm learning Deep Learning and Algorithms
 * 🤝  I'm open to collaborating on Data Science
 * ⚡  I use tabs over spaces
+* ⚽  My hobbies include hiking, badminton, video games
 
 ## Skills
 
@@ -30,12 +25,41 @@ Programming Languages
 Python Frameworks for Data Science
 <p align="left">
 <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="/icons/icons8-numpy.svg" width="36" height="36" alt="Numpy" />Numpy</a>
+<a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="/icons/icons8-pandas.svg" width="36" height="36" alt="Pandas" />Pandas</a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="/icons/icons8-tensorflow.svg" width="36" height="36" alt="Tensorflow" />Tensorflow</a>
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="/icons/scikit-learn-seeklogo.com.svg" width="36" height="36" alt="Scikit-Learn" />Sklearn</a>
+<a href="https://www.dask.org" target="_blank" rel="noreferrer"><img src="/icons/dask_icon.svg" width="36" height="36" alt="Dask" />Dask</a>
+<a href="https://opencv.org" target="_blank" rel="noreferrer"><img src="/icons/icons8-opencv.svg" width="36" height="36" alt="OpenCV" />OpenCV</a>
+<a href="https://matplotlib.org" target="_blank" rel="noreferrer"><img src="/icons/Matplotlib_icon.svg.png" width="36" height="36" alt="Matplotlib" />Matplotlib</a>
+<a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"><img src="/icons/seaborn.svg" width="36" height="36" alt="Seaborn" />Seaborn</a>
 </p>
 
 Toolkits/Frameworks
 <p align="left">
+<a href="https://airflow.apache.org" target="_blank" rel="noreferrer"><img src="/icons/airflow.svg" width="36" height="36" alt="Apache Airflow" />Apache Airflow</a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="/icons/icons8-amazon-web-services.svg" width="36" height="36" alt="Amazon Web Services" />Amazon Web Services</a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="/icons/icons8-git.svg" width="36" height="36" alt="Git" />Git</a>
+<a href="https://www.tableau.com" target="_blank" rel="noreferrer"><img src="/icons/icons8-tableau-software.svg" width="36" height="36" alt="Tableau" />Tableau</a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />MongoDB</a>
 </p>
+
+Data Engineering
+<p align="left">
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="/icons/icons8-selenium.svg" width="36" height="36" alt="Selenium" />Selenium</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="/icons/icons8-bash.svg" width="36" height="36" alt="Shell Scripting" />Shell Scripting</a>
+<a href="" target="_blank" rel="noreferrer"><img src="/icons/icons8-web-scraper.svg" width="36" height="36" alt="Web Scraping" />Web Scraping</a>
+<a href="" target="_blank" rel="noreferrer"><img src="/icons/icons8-statistics-96.png" width="36" height="36" alt="Data Analysis" />Data Analysis</a>
+<a href="" target="_blank" rel="noreferrer"><img src="/icons/data wragling.png" width="36" height="36" alt="Data Wrangling" />Data Wrangling</a>
+</p>
+
+## About Me
+Formerly a <b>Data Engineer</b> at [Dataweave](https://dataweave.com/), an e-commerce analytics company for 2.5 years. In this role, I was initially involved in <b>Data scraping and Data Wrangling</b> from major e-commerce websites. As I progressed, I transitioned into <b>automating data workflows</b> using technologies like <b>Apache Airflow</b> and <b>Amazon Web Services</b>. This hands-on experience allowed me to witness the direct application of Data Science in solving real-world problems.
+
+I completed my undergraduate in Information Science Engineering at [BMS College of Engineering](https://www.bmsce.ac.in/), graduating in the <b>top 10%</b> of the class of 2020. My research interests include Neural Networks and Computer Vision. At BMSCE, I was a <b>senior coordinator</b> for the ISE Student Club and served as the <b>Technical mentor</b> between 2019-2020. From a cultural standpoint, I served as the <b>Coordinator and Head</b> of the publicity and sponsorship teams for the BMSCE’s annual technial symposium, PhaseShift between 2018-2019.
+
+Outside of my academic and professional pursuits, I enjoy staying active and exploring the outdoors. Whether it's playing badminton or embarking on a scenic trail hike, I find solace in the balance between mental and physical well-being. Also, I find immense joy in immersing myself within captivating story-driven games, where I often happily venture into virtual worlds, indulging in epic gaming adventures.
+
+Looking ahead, I am eager to combine the comprehensive skills in Data Science, encompassing Machine Learning, Statistics, and Algorithms, that I am acquiring at the university with my prior industry experience. My ultimate goal is to tackle complex <b>real-world data science problems</b> and make a meaningful impact.  
 
 ## University Courses
 
@@ -49,7 +73,6 @@ Summer 2023
 Fall 2023
 * CS5800: Algorithms.
 * CS7150: Deep Learning.
-
 
 
 ## Socials
