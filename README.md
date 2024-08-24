@@ -88,7 +88,7 @@ Fall 2023
 * CS7150: Deep Learning.
 
 Spring 2024:
-* CS 6120: Natural Language Processing.
+* CS6120: Natural Language Processing.
 * CS6200: Information Retrieval.
 
 
