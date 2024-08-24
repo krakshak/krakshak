@@ -4,10 +4,13 @@ Hi 👋 My name is Rakshak Kunchum
 Data Science Graduate Student at Northeastern University
 --------------------------------------------------------
 
+Data Science Intern at Capital One (Summer 2024)
+--------------------------------------------------------
+
 * 🌍  I'm based in Boston, MA
 * 🖥️  See my portfolio at [Rakshak Kunchum](http://krakshak.github.io)
 * ✉️  You can contact me at [krakshak7698@gmail.com](mailto:krakshak7698@gmail.com)
-* 🔭  I'm fascinated by the application of Machine Learning and Computer Vision to solve real world problems!
+* 🔭  I'm fascinated by the application of Machine Learning and Deep Learning to solve real world problems!
 * 🧠  I'm learning Deep Learning and Algorithms
 * 🤝  I'm open to collaborating on Data Science
 * ⚡  I use tabs over spaces
@@ -27,6 +30,7 @@ Databases
 <p align="left">
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/krakshak/krakshak/main/icons/mysql-official.svg" width="36" height="36" alt="MySQL" />MySQL</a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />MongoDB</a>
+<a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="SnowFlake" />SnowFlake</a>
 </p>
 
 Python Frameworks for Data Science
@@ -82,6 +86,10 @@ Summer 2023
 Fall 2023
 * CS5800: Algorithms.
 * CS7150: Deep Learning.
+
+Spring 2024:
+* CS 6120: Natural Language Processing.
+* CS6200: Information Retrieval.
 
 
 ## Socials
