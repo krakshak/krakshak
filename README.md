@@ -25,13 +25,15 @@ Hi 👋 My name is Rakshak Kunchum
 * ⚡  I use tabs over spaces
 * ⚽  My hobbies include hiking, volleyball, badminton, video games, e-sports
 
-## Projects:
+## Projects
+
 * [**FinAdvisor**](https://github.com/sriksven/FinAdvisor_LLM) - Personal Finance QA advisor, Fine-tuned LLaMA 7B and Mistral 7B LLM models, Gradio UI, Chroma Vector DB
 * [**Forecasting Credit Card Expenditure**](https://github.com/krakshak/credit-card-spend) - Random Forest and XGBoost Regressors (R<sup>2</sup>: 0.86, explained_variance_score: 0.83)
 * [**Multimodal Sentiment Analysis with Vision-Language Models**](https://github.com/RazerEdge64/6120-Project/tree/main) - Few-shot learning, prompt engineering, Streamlit UI 
 * [**Distracted Driver Detection**](https://github.com/krakshak/kaggle-distracted-driver-detection) - CNN, Object Detection, Object Classification (Validation Accuracy: 0.825)
 
-## Achievements & Honors:
+## Achievements & Honors
+
 *	1st place at [Harvard Data Science](https://datascience.harvard.edu/) Initiative’s Agri Data Hackathon 2024 in sponsorship with [USDA NASS](https://www.nass.usda.gov/) ([Hackathon results](https://datascience.harvard.edu/2024/10/25/tackling-agriculture-and-food-security-in-a-changing-climate-celebrating-solutions-from-the-hdsi-agri-datathon))
 *	3rd place at Northeastern University Data Science Hackathon Summer 2023.
 
