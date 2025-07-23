@@ -10,7 +10,7 @@ Hi 👋 My name is Rakshak Kunchum
 --------------------------------------------------------
 
 ## Experience
-* Data Science Intern @ Capital One, McLean, Virginia, USA (June 2024 - December 2024)
+* Data Scientist Senior Associate - Intern @ Capital One, McLean, Virginia, USA (June 2024 - December 2024)
 * Data Scientist @ DataWeave, Bangalore, India (July 2019 - October 2022)
 
 ## Intro
