@@ -46,9 +46,6 @@ Outside of my academic and professional pursuits, I enjoy staying active and exp
 
 Looking ahead, I am eager to combine the comprehensive skills in Data Science, encompassing Machine Learning, Statistics, and Algorithms, that I have acquired at the university with my prior industry experience. My ultimate goal is to tackle complex <b>real-world data science problems</b> and make a meaningful impact.  
 
-Fall 2024:
-* DS5500: Data Science Capstone.
-
 ## Socials
 
 <p align="left"> <a href="https://www.github.com/krakshak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
