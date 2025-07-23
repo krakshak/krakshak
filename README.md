@@ -25,7 +25,7 @@ Hi 👋 My name is Rakshak Kunchum
 
 ## Projects
 
-* [**FinAdvisor**](https://github.com/sriksven/FinAdvisor_LLM) - Personal Finance QA advisor, Fine-tuned LLaMA 7B and Mistral 7B LLM models, Gradio UI, Chroma Vector DB
+* [**FinAdvisor**](https://github.com/sriksven/FinAdvisor_LLM) - Personal Finance QA advisor, Fine-tuned LLaMA 7B and Mistral 7B LLM models, Gradio UI, Pinecone Vector DB
 * [**Forecasting Credit Card Expenditure**](https://github.com/krakshak/credit-card-spend) - Random Forest and XGBoost Regressors (R<sup>2</sup>: 0.86, explained_variance_score: 0.83)
 * [**Walmart Sales Forecasting with MLOps Pipeline**](https://github.com/krakshak/walmart-mlops) - AWS, Github Actions, DVC, MLFlow (Accuracy: 0.92)
 * [**Multimodal Sentiment Analysis with Vision-Language Models**](https://github.com/RazerEdge64/6120-Project/tree/main) - Few-shot learning, prompt engineering, Streamlit UI 
